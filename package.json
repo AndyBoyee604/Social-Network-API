@@ -16,8 +16,10 @@
     "url": "https://github.com/AndyBoyee604/Social-Network-API/issues"
   },
   "homepage": "https://github.com/AndyBoyee604/Social-Network-API#readme",
+  "keywords": [],
   "dependencies": {
     "express": "^4.17.1",
+    "moment": "^2.29.4",
     "mongoose": "^5.12.11"
   }
 }
